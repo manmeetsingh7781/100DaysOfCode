@@ -10,9 +10,9 @@ An array is a collection of elements of the same data type. It is a linear data 
 
 ## Dynamic Arrays
 
-Dynamic arrays are similar to Arrays, besides the size of it. In other words these are resizable arrays. In these arrays size of it expands automatically by 1.5x or 2x factor when it is about to reach it’s capacity, changing the size of array takes about O(N) run time and O(N + K) space where K is the new size and then we copy the elements from old array to new array. 
+Dynamic arrays are similar to Arrays, besides the size of it. In other words, these are resizable arrays. In these arrays size of it expands automatically by 1.5x or 2x factor when it is about to reach its capacity, changing the size of the array takes about O(N) run time and O(N + K) space where K is a new size and then we copy the elements from the old array to the new array. 
 
-![Untitled](Arrays,%20Stacks,%20Queues%203974ea25b69d42c4b626a8d2af427dc9/Untitled.png)
+![Arrays](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%202%20-%20Images/arrays.png)
 
 ## Stacks
 
@@ -22,11 +22,11 @@ A stack is a linear data structure where elements are added and removed from onl
 
 A queue is a linear data structure where elements are added at one end, called the rear, and removed from the other end, called the front. It follows the First In First Out (FIFO) principle, where the first element added to the queue is the first one to be removed. The operations performed on a queue are enqueue (add an element to the rear) and dequeue (remove the element from the front). Queue uses Arrays or LinkedList for implementation.
 
-![Untitled](Arrays,%20Stacks,%20Queues%203974ea25b69d42c4b626a8d2af427dc9/Untitled%201.png)
+![Stacks and Queues](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%202%20-%20Images/stacks_queues.png)
 
 Arrays, stacks, and queues are fundamental data structures used in computer science and programming. They are used in a wide range of applications, including algorithms, data analysis, and software development.
 
-Although these three data structures are linear, but their time complexity varies depending on the operation we are using. Below is the table of each of them performing in Worst Case (Big O).
+Although these three data structures are linear, their time complexity varies depending on the operation we are using. Below is the table of each of them performing in the Worst Case (Big O).
 
 | Operation | Arrays | Stacks | Queues |
 | --- | --- | --- | --- |
