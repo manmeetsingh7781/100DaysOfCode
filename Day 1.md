@@ -11,7 +11,7 @@ Before we learn about Time/Space Complexity, we should know what is Algorithm.
 
 Algorithm simply refers to a sequence of finite steps to solve a particular problem. In other words, set of instructions to solve a problem. Algorithms can be simple and complex depending on what we want to achieve.
 
-![Image from GeeksForGeeks](Time%20and%20Space%20Complexity%20Analysis%2032994bda52cd46b48b69e55f8b246f26/Untitled.png)
+![Geeks For Geeks Image](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%201%20-%20Images/algorithm.png)
 
 Image from GeeksForGeeks
 
@@ -56,8 +56,7 @@ Theta notation provides a tight bound on the running time of an algorithm. It de
 
 By using asymptotic notation, developers can compare the efficiency of different algorithms and choose the best algorithm for a given problem. It also allows them to analyze and optimize the performance of their algorithms.
 
-![Geeks For Geeks Image](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%201%20-%20Images/algorithm.png)
-
+![Asymptotic Image](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%201%20-%20Images/asymptotic_notation.png)
 c2 is a constant which is a multiplier and gives us the Worst Case (Big O) of a function f(n)
 
 c1 is another constant which a multiplier but smaller than c2 and this is our Best Case (Big Omega) of function f(n)
