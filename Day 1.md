@@ -20,17 +20,17 @@ Image from GeeksForGeeks
 But, we will discuss important ones.
 
 1. **Brute Force**: First and Simplest approach to solve the problem.
-2. **Recursive**: Problem broken into sub-problems and called the same function again and again on the problems until It reaches base case.
-3. **Backtracking**: problem solving approach that uses **********************Brute-Force********************** approach to find the best output, backtracking algorithm tries out all the possible solutions and chooses the best solution. Problem that uses Backtracking will have constraints(rules) that do not meet and will be removed. 
-    - In simple words: Searching in every possible combination and choosing the best one every time.
+2. **Recursive**: The problem is broken into sub-problems and called the same function again and again on the problems until It reaches base case.
+3. **Backtracking**: problem-solving approach that uses **********************Brute-Force********************** approach to find the best output, backtracking algorithm tries out all the possible solutions and chooses the best solution. The problem that uses Backtracking will have constraints(rules) that do not meet and will be removed. 
+    - In simple words: Searching for every possible combination and choosing the best one every time.
     - This approach is redefined **********************Brute-Force********************** approach and also uses ****************Recursion.****************
-4. **Searching**: Used for searching a key in the array. There are 2 types of searching algorithms Linear and Non-Linear.
-5. **Sorting**: Used for sorting a unordered array. There are 3 types of searching algorithms Linear, Non-Linear, and Non-Comparison.
-6. **Hashing**: An algorithm that uses math formula to convert key into numerical value. There is also double hashing that works as a backup when primary hashing function causes collision. 
-7. **Divide and Conquer**: This algorithm breaks the problem into sub problems and apply same fundamentals on them by calling itself again and again until it reaches base case, and combines the solution of sub problem back to one main solution. It uses recursion. This algorithm divides a problem into 3 major steps. Divide, Solve, and Combine. 
-8. **Greedy**: This algorithm chooses what’s best choice is at the given time, it makes same decision of finding the best choice out of given choices at every step until it solves the problem. 
-9. **Dynamic Programming**: Avoids overlapping solutions, this algorithm avoids performing calculations that has already been calculated. It uses memorization or tabulation so that it can access the solution that was solved already rather then solving it again.
-10. **Randomized Algorithm**: Uses randomness as a part of its logic, such as tossing coin, generating a random number, drawing a card out of card stack. 
+4. **Searching**: Used for searching a key in the array. There are 2 types of search algorithms Linear and Non-Linear.
+5. **Sorting**: Used for sorting an unordered array. There are 3 types of search algorithms Linear, Non-Linear, and Non-Comparison.
+6. **Hashing**: An algorithm that uses a math formula to convert the key into a numerical value. There is also double hashing that works as a backup when the primary hashing function causes a collision. 
+7. **Divide and Conquer**: This algorithm breaks the problem into sub-problems and applies the same fundamentals on them by calling itself again and again until it reaches base case, and combines the solution of subproblems back to one main solution. It uses recursion. This algorithm divides a problem into 3 major steps. Divide, Solve, and Combine. 
+8. **Greedy**: This algorithm chooses what the best choice is at the given time, it makes the same decision of finding the best choice out of given choices at every step until it solves the problem. 
+9. **Dynamic Programming**: Avoids overlapping solutions, this algorithm avoids performing calculations that has already been calculated. It uses memorization or tabulation so that it can access the solution that was solved already rather than solving it again.
+10. **Randomized Algorithm**: Uses randomness as a part of its logic, such as tossing a coin, generating a random number, or drawing a card out of card stack. 
 
 Although there are endless algorithms, we will focus on the most commonly used ones. However, the execution of an algorithm can vary depending on the hardware, making it machine-dependent.
 
@@ -56,13 +56,13 @@ Theta notation provides a tight bound on the running time of an algorithm. It de
 
 By using asymptotic notation, developers can compare the efficiency of different algorithms and choose the best algorithm for a given problem. It also allows them to analyze and optimize the performance of their algorithms.
 
-![Untitled](Time%20and%20Space%20Complexity%20Analysis%2032994bda52cd46b48b69e55f8b246f26/Untitled%201.png)
+![Untitled]([Time%20and%20Space%20Complexity%20Analysis%2032994bda52cd46b48b69e55f8b246f26/Untitled%201.png](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%201%20-%20Images/algorithm.png))
 
 c2 is a constant which is a multiplier and gives us the Worst Case (Big O) of a function f(n)
 
-c1 is another constant which a multiplier but smaller then c2 and this is our Best Case (Big Omega) of function f(n)
+c1 is another constant which a multiplier but smaller than c2 and this is our Best Case (Big Omega) of function f(n)
 
-f(n) is our function which describes the run time on average case which is Big Theta. 
+f(n) is our function which describes the run time on an average case which is Big Theta. 
 
 ## Time Complexity
 
