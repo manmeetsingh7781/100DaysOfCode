@@ -4,6 +4,8 @@ Created: August 19, 2023 10:01 AM
 Day: 2
 Author: Manny - @ptr_err
 
+[Link for Implementation](https://github.com/manmeetsingh7781/100DaysOfCode/tree/main/Day%202%20-%20Code)
+
 ## Arrays
 
 An array is a collection of elements of the same data type. It is a linear data structure where the elements are stored in contiguous memory locations. Arrays can be accessed using an index, which starts at 0 for the first element. Arrays are used for storing and accessing a large number of values efficiently.
@@ -35,4 +37,3 @@ Although these three data structures are linear, their time complexity varies de
 | Get | O(1) | O(N) | O(N) |
 | Search | O(N) | O(N) | O(N) |
 
-[Link for Implementation](https://github.com/manmeetsingh7781/100DaysOfCode/tree/main/Day%202%20-%20Code)
