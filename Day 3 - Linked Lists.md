@@ -18,21 +18,21 @@ The basic components of a linked list include a **Node.** Each node contains two
 - **Chaining** of one node to another node is done by assigning the **Next** **Pointer/Reference** to the next node as we are chaining the list.
 - **Head** node points to the front/beginning of the Linked List.
 
-![Node](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%203%20-%20Images/node.png)
+![Node](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%203/Day%203%20-%20Images/node.png)
 
 ### There are several types of linked lists, including:
 
 **Singly Linked List:** Each node points to the next node in the sequence, forming a unidirectional chain.
 
-![Singly](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%203%20-%20Images/single.png)
+![Singly](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%203/Day%203%20-%20Images/single.png)
 
 **Doubly Linked List:** Each node contains pointers to both the next and the previous nodes, allowing for bidirectional traversal.
 
-![Doubly](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%203%20-%20Images/double.png)
+![Doubly](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%203/Day%203%20-%20Images/double.png)
 
 **Circular Linked List:** Similar to a singly or doubly linked list, but the last node's pointer points back to the first node, creating a circular structure.
 
-![Circular](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%203%20-%20Images/circular.png)
+![Circular](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%203/Day%203%20-%20Images/circular.png)
 
 ### Advantages and Use Cases
 
