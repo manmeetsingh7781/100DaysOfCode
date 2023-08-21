@@ -5,6 +5,7 @@ Day: 3
 Materials: https://www.javatpoint.com/singly-linked-list
 Author: Manny - @Manmeet Singh
 
+[Code Link](https://github.com/manmeetsingh7781/100DaysOfCode/tree/main/Day%203/Code)
 # What is Linked List
 
 A linked list is a fundamental data structure in computer science that is used to organize and store a collection of elements, often referred to as nodes. 
