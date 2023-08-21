@@ -41,7 +41,7 @@ public:
 		Node* temp_head = list.head;
 		int i = 0;
 		// transverse through the temp data
-		while (temp_head != list.head) {
+		while (i != list.len) {
 			out << *temp_head << " ";
 			temp_head = temp_head->getNext();
 			i++;
