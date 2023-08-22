@@ -3,7 +3,7 @@
 Created: August 21, 2023 5:07 PM
 Day: 4
 Author: Manny - @Manmeet Singh
-
+[Code Link](https://github.com/manmeetsingh7781/100DaysOfCode/tree/main/Day%20-%204/Code)
 # Binary Trees
 
 A binary tree is a fundamental data structure in computer science that organizes and stores data in a hierarchical manner. It consists of nodes, where each node can have at most two children, often referred to as the "left" child and the "right" child. The topmost node of a binary tree is called the "root."
@@ -23,7 +23,7 @@ Here are some important terms and concepts related to binary trees:
 7. **Depth**: The depth of a node in a binary tree is the number of edges on the longest path from the node to the root.
 8. **Height**: The height of a binary tree is the maximum depth of any node in the tree. The height of an empty tree is usually defined as -1.
 
-![Untitled](Binary%20Trees%206711c3bd91294282b4b73ea793abaffa/Untitled.png)
+![Tree's](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%20-%204/Images/trees.png)
 
 ## Types of Binary Tree
 
@@ -35,7 +35,7 @@ Binary trees can be classified into different types based on their structure:
 4. **Perfect Binary Tree**: A binary tree in which all internal nodes have exactly two children, and all leaf nodes are at the same level.
 5. **Balanced Binary Tree**: A binary tree in which the height difference between the left and right subtrees of any node is at most one.
 
-![Untitled](Binary%20Trees%206711c3bd91294282b4b73ea793abaffa/Untitled%201.png)
+![Levels and Depth](https://github.com/manmeetsingh7781/100DaysOfCode/blob/main/Day%20-%204/Images/levels.png)
 
 ## Traversing through Binary Trees
 
