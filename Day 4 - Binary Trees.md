@@ -4,7 +4,7 @@ Created: August 21, 2023 5:07 PM
 Day: 4
 Author: Manny - @Manmeet Singh
 
-![Code Link](https://github.com/manmeetsingh7781/100DaysOfCode/tree/main/Day%20-%204/Code)
+[Code Link](https://github.com/manmeetsingh7781/100DaysOfCode/tree/main/Day%20-%204/Code)
 # Binary Trees
 
 A binary tree is a fundamental data structure in computer science that organizes and stores data in a hierarchical manner. It consists of nodes, where each node can have at most two children, often referred to as the "left" child and the "right" child. The topmost node of a binary tree is called the "root."
